@@ -1,7 +1,7 @@
 # Browserstack Assignment
 
 
-####################################  How to Setup the Project  ######################################################################
+############  How to Setup the Project  ##############
 
 - git clone https://github.com/aditi3sharma/Browserstack-assessment.git
 It will create folder "Browserstack-assessment" on local machine
@@ -12,7 +12,7 @@ It will create folder "Browserstack-assessment" on local machine
 
 Import Maven project ->  import both projects available in "Browserstack-assessment" folder.
 
-####################################  How To Run Browserstack Assignment (testng-browserstack)  ######################################
+#############  How To Run Browserstack Assignment (testng-browserstack)  ##############
 
 1.  Install Dependencies
 - Run as -> Run configuration -> Select maven builds from left menu and double click on it 
@@ -24,13 +24,13 @@ Import Maven project ->  import both projects available in "Browserstack-assessm
 
 Project will run and also you will see the mobile list in the Eclipse console
 
-#################################### How To Run local assignment  ######################################################################
+############ How To Run local assignment  #############
 
 - Do Maven install -> Run the project 
 - Make sure you add the correct path of chromium
 
 
-####################################  How To change the credential of Browserstack Test account ################
+############ How To change the credential of Browserstack Test account ################
 
 - Login in "https://automate.browserstack.com"
 - You will see Access Key on navigation bar click on it dropdown will open 
