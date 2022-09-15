@@ -1,0 +1,42 @@
+{
+  "server": "hub.browserstack.com",
+  "user": "anujnandwana_PkOFUK",
+  "key": "4a27gYMqRRzFVWvk4D9y",
+  "capabilities": {
+    "build": "mobile-list-build",
+    "name": "parallel_test",
+    "browserstack.debug": true
+  },
+  "environments": {
+    "env1": {
+      "browserName": "Chrome",
+      "browserVersion": "105.0",
+      "os": "Windows",
+      "osVersion": "11"
+    },
+    "env2": {
+      "browserName": "Firefox",
+      "browserVersion": "102.0",
+      "os": "Windows",
+      "osVersion": "10"
+    },
+    "env3": {
+      "browserName": "Safari",
+      "browserVersion": "14.1",
+      "os": "OS X",
+      "osVersion": "Big Sur"
+    },
+    "env4": {
+      "browserName": "Chrome",
+      "browserVersion": "105.0",
+      "os": "OS X",
+      "osVersion": "Monterey"
+    },
+    "env5": {
+      "browserName": "Edge",
+      "browserVersion": "102.0",
+      "os": "Windows",
+      "osVersion": "11"
+    }
+  }
+}
